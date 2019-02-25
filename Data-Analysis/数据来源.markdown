@@ -1,0 +1,50 @@
+大数据：任何人都可以使用的33个辉煌和免费的数据源
+ 伯纳德马尔
+伯纳德马尔
+贡献者
+ 
+
+
+数据无处不在 - 但有时可能很难看到森林的树木，就像它一样。许多不同规模的公司都认为他们必须收集自己的数据才能从大数据分析中获益，但事实并非如此。
+
+有数百个（如果不是数千个）可用的免费数据集，可供任何愿意寻找它们的人使用和分析。下面列出了我遇到的全球最有趣的35个，但是在许多不同的利基市场中有很多甚至更多。
+
+Data.gov http://data.gov美国政府去年承诺在网上免费提供所有政府数据。这个网站是第一个阶段，是各种从气候到犯罪的各种惊人信息的门户。
+美国人口普查局http://www.census.gov/data.html关于美国公民生活的大量信息，包括人口数据，地理数据和教育。
+Socrata是另一个探索政府相关数据的有趣场所，内置了一些可视化工具。
+欧盟开放数据门户http://open-data.europa.eu/en/data/如上所述，但基于欧盟机构的数据。
+Data.gov.uk http://data.gov.uk/来自英国政府的数据，包括英国国家书目 - 自1950年以来所有英国书籍和出版物的元数据。
+您可能还喜欢
+加拿大开放数据是一个包含许多政府和地理空间数据集的试点项目。
+Datacatalogs.org提供来自美国，欧盟，加拿大，CKAN等的开放政府数据。
+中央情报局世界概况https://www.cia.gov/library/publications/the-world-factbook/有关267个国家的历史，人口，经济，政府，基础设施和军事的信息。
+2016年大数据来源（来源Shutterstock）
+2016年大数据来源（来源Shutterstock）
+
+Healthdata.gov https://www.healthdata.gov/ 125年的美国医疗保健数据，包括索赔级医疗保险数据，流行病学和人口统计数据。
+NHS 健康与社会关怀信息中心http://www.hscic.gov.uk/home来自英国国家健康服务的健康数据集。
+儿童基金会提供全世界妇女和儿童状况的统计数据。
+世界卫生组织提供世界饥饿，健康和疾病统计数据。
+亚马逊网络服务公共数据集http://aws.amazon.com/datasets公共数据的巨大资源，包括1000基因组计划，旨在建立最全面的人类遗传信息数据库和 NASA 地球卫星图像数据库。
+Facebook FB + 1.16％图表https://developers.facebook.com/docs/graph-api尽管用户的Facebook个人资料的大部分信息都是私密的，但很多情况并非如此 - Facebook提供Graph API作为查询
+大量信息的方式它的用户很乐意与世界分享（或者因为他们没有弄清楚隐私设置如何工作而无法隐藏）。
+Face.com：面部识别数据的迷人工具。
+加州大学洛杉矶分校公开其课程的一些数据。
+数据市场是一个查看与经济，医疗保健，食品和农业以及汽车行业相关的数据的地方。
+Google公共数据资源管理器包含来自世界发展指标，经合组织和人类发展指标的数据，这些指标主要与经济数据和世界相关。
+Junar是一种数据抓取服务，还包括数据馈送。
+Buzzdata是一种社交数据共享服务，允许您上传自己的数据并与上传其数据的其他人联系。
+Gapminder http://www.gapminder.org/data/来自世界卫生组织和世界银行等来源的数据汇编，涵盖世界各地的经济，医学和社会统计数据。
+谷歌 GOOGL + 1.16％趋势http://www.google.com/trends/explore自2004年以来任何指定期限的搜索量统计（占总搜索的比例）。
+Google财经https://www.google.com/finance 40年的股票市场数据，实时更新。
+Google Books Ngrams http://storage.googleapis.com/books/ngrams/books/datasetsv2.html搜索并分析数字化为Google图书项目一部分的数百万本图书的全文。
+国家气候数据中心http://www.ncdc.noaa.gov/data-access/quick-links#loc-clim来自美国国家气候数据中心的大量环境，气象和气候数据集。世界上最大的天气数据档案。
+DBPedia http://wiki.dbpedia.org维基百科由数百万条数据组成，在阳光下的每个主题上都有结构化和非结构化。DBPedia是一个雄心勃勃的项目，用于编目和创建公共的，可自由分发的数据库，允许任何人分析这些数据。
+纽约时报 NYT + 1％ http://developer.nytimes.com/docs可搜索，可追溯到1851年的新闻文章的索引存档。
+Freebase http://www.freebase.com/社区编译的人员，地点和事物结构化数据库，拥有超过4500万条目。
+Million Song数据集http://aws.amazon.com/datasets/6468931156960467超过一百万首歌曲和音乐的元数据。亚马逊网络服务的一部分。
+UCI机器学习库是专门为机器学习预处理的数据集。
+俄勒冈州立大学的财务数据查找器提供了大量的财务数据集。
+皮尤研究中心通过其对美国生活的迷人研究提供原始数据。
+BROAD研究所提供了许多与癌症相关的数据集。
+
