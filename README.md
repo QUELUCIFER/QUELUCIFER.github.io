@@ -27,6 +27,8 @@
 
 [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata "awesome-bigdata")
 
+[awesome-crawler](https://github.com/BruceDone/awesome-crawler "awesome-crawler")
+
 -------------------------------------
 
 # 华语文档：
@@ -74,6 +76,8 @@
 [Python-1](https://github.com/QUELUCIFER/Python-1 "python-1")
 
 [Python-Robotics](https://github.com/AtsushiSakai/PythonRobotics "Python-Robotics")
+
+[pyspider](https://github.com/binux/pyspider "pyspider")
 
 # AI相关：
 
