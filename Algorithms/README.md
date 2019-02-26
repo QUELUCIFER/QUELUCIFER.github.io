@@ -1,0 +1,160 @@
+Awesome Algorithms
+A curated list of awesome places to learn and/or practice algorithms. Inspired by awesome-awesomeness and all the other awesome Awesome libraries.
+
+If you want to contribute, please read the contribution guidelines.
+
+Awesome Algorithms
+Websites
+Online Courses
+Books
+Github Libraries
+Online Judges
+Tools
+Websites
+Websites you should use to learn classic algorithms
+
+A Visual Guide to Graph Traversal Algorithms - Interactive visualisations for learning how graph traversal algorithms work
+Algomation - A didactic, animated, exposition of algorithms.
+Algorithm Visualizer - Dozens of animated algorithms (with code), and you can also create your own.
+Algorithms Visualization - A dense article on Algorithms Visualization.
+Big-O Cheat Sheet - Big-O complexities of common algorithms used in Computer Science.
+Code-Drills - Practice problems recommender (includes Codeforces, Codechef and Spoj).
+Data Structure Visualizations - Visualize the behavior of Data Structures and play with its operations.
+Geeks for Geeks - Lots and lots of well explained and implemented algorithms.
+Path Finding - A visual representation on how algorithms such as A*, IDA*, Breadth-First-Search, Best-First-Search and others describe a path between two points A and B.
+Rosetta Code - A programming chrestomathy site which aims to present implementations of many algorithms and data structures in different programming languages.
+Sorting Algorithms - Nice and simple animations of sorting algorithms. With short codes and discussions.
+Stoimen's web log - Some algorithms nicely explained.
+The Sound of Sorting - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
+VisuAlgo - Visualising data structures and algorithms through animation.
+Wikipedia - Algorithms - Of course!!
+Wikipedia - Data Structures - and why not ?!!
+Online Courses
+Free and High Quality Courses Online
+
+Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms - The primary topics are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
+Algorithms: Graph Search, Shortest Paths, and Data Structures - The primary topics are: data structures, graph primitives, and their applications.
+Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming - The primary topics are: greedy algorithms and dynamic programming.
+Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them - The primary topics are: shortest paths, NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems.
+Algorithms, Part I - This course covers the essential information that every serious programmer needs to know about algorithms and data structures.Part I covers elementary data structures, sorting, and searching algorithms.
+Algorithms, Part II - Part II focuses on graph- and string-processing algorithms.
+Khan Academy Algorithms - Algorithm course ministred by Tomas Cormen and Devin Balkcom.
+MIT - 6-006 - Well explained algorithms.
+MIT - 6-046j - Similar to the previous one, but with different algorithms.
+MIT - 6-00sc - An easy and well explained introduction to algorithms.
+Udacity Intro to Algorithms - Python-based Algorithms course.
+Algorithms in Motion - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
+YogiBearian YouTube Channel - Lots of well explained vidoes on various computer science subjects. Account terminated due to violations of Youtube Policies.
+Books
+The most highly regarded books to learn algorithms
+
+Algorithm Design - Pretty straight-forward.
+Algorithms - Problems explained with Java, OO good practices, visualizations, and free online resources.
+Classic Computer Science Problems in Python -This great book presents dozens of coding challenges, ranging from simple tasks to clustering data using k-means.
+Data Structures Using C - The basic concepts and usages of data structures.
+Elementary Algorithms - An awesome book about algorithms and data structures.
+Grokking Algorithms - An illustrated book on algorithms with practical examples.
+Introduction to Algorithms - Essential!
+Swift Algorithms & Data Structures - A practical guide to concepts, theory and code.
+The Algorithm Design Manual - Easy to read and full of real world examples.
+The Art of Computer Programming - The Book.
+Structure and Interpretation of Computer Programs
+Github Libraries
+Implementations of the most classic algorithms in a wide variety of programming languages
+
+C
+CoffeeScript
+C#
+by @shkolovy
+by @aalhour
+by @justcoding121
+C++
+by @xtaci
+by @PetarV-
+by @faheel
+Erlang
+Go
+Java
+by @jpa99
+by @phishman3579
+by @asmolich
+by @psjava
+by @jeandersonbc
+by @pedrovgs
+by @Erdos-Graph-Framework
+by @deepak-malik
+by @yusufcakal
+JavaScript
+by @jiayihu
+by @felipernb
+by @nzakas
+by @duereg
+by @mgechev
+by @trekhleb
+by @ManrajGrover
+Objective-C
+by @ EvgenyKarkan
+Python
+by @nryoung
+by @prakhar1989
+by @laurentluce
+by @nbro
+by @keon
+Ruby
+by @kanwei
+by @sagivo
+by @kumar91gopi
+Scala
+Swift
+by @kingreza
+by @waynewbishop
+by @hollance
+Language agnostic
+by @kennyledet
+by @indy256
+by @sagivo
+by @patmorin
+Online Judges
+Online Judges to practice what you learned above
+
+A2 Online Judge - Online Judge and problem archive.
+ACM-ICPC Live Archive - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
+AIZU ONLINE JUDGE - Japanese Online Judge.
+Algo Muse - Research based algorithmic problems.
+AtCoder - Japanese programming contest website.
+Baekjoon Online Judge - Korean Online Judge. 10000+ problems. Supports 60+ languages.
+CS Academy - Holds online contests and IOI practice contests
+CodeChef - More problems and monthly online contests.
+Codeforces - The only programming contests Web 2.0 platform
+Codefights - Practive programming and tackle out your next tech interview
+CodeMarshal - Real world contests online!
+CodeWars - A website that houses support to solve algorithms in many languages in varying difficulty.
+CoderByte - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
+Firecode- Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
+HackerEarth - Practice alogrithmic problems & challenges and participate in hiring challenges.
+HackerRank - Featured algorithm and functional programming online judges
+HiHoCoder - Chinese and English problem solving practice and recruitment challenge site.
+Infoarena - Romanian Online Judge. 1500+ algorithmic problems
+Kattis- Online judge and problem archive
+LavidaOnlineJudge - Korean Online Judge(Half English). 1300+ problems.
+Learneroo Algorithms Tutorials - Learn and practice algorithms by solving challenges online.
+LeetCode - Learn algorithms and prepare for interviews.
+PKU JudgeOnline - Chinese Online Judge.
+ProjectEuler - Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
+Rosalind - A platform for learning bioinformatics and programming through problem solving.
+ShareCode.io - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
+Snakify - An introductory Python course with 100+ algorithmic problems and a step-by-step debugger (from Russia).
+SPOJ - More problems.
+TopCoder - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
+URI - Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
+UVA - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
+Tools
+Some tools that can help you in the learning of algorithms
+
+interactive-coding-challenges - Interactive, test-driven coding challenges (algorithms and data structures).
+License
+And for the sake of copyleft, here's our license:
+
+Creative Commons License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
