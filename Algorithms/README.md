@@ -1,7 +1,3 @@
-Awesome Algorithms
-A curated list of awesome places to learn and/or practice algorithms. Inspired by awesome-awesomeness and all the other awesome Awesome libraries.
-
-If you want to contribute, please read the contribution guidelines.
 
 Awesome Algorithms
 Websites
