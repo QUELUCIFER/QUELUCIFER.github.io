@@ -1,6 +1,0 @@
- O(n)=6nlog2(n)+6n==nlogn
-
-
-~~~python3:
- 
- def 
