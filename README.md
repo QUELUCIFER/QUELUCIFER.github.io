@@ -23,7 +23,7 @@
 
 [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications "awesome-python-applications")
 
-[awesome-algorithm](https://github.com/apachecn/awesome-algorithm "awesome-algorithm")
+[awesome-algorithm](https://github.com/apachecn/awesome-algorithm "awesome-algorithm")               [算法第四版](https://algs4.cs.princeton.edu/home/  "算法第四版")
 
 [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata "awesome-bigdata")
 
