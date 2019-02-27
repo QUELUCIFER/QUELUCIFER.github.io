@@ -103,11 +103,11 @@
 
 [ChatterBot](https://github.com/gunthercox/ChatterBot "ChatterBot")
 
-[CNN](https://github.com/lengstrom/fast-style-transfer "CNN“）
+[CNN](https://github.com/lengstrom/fast-style-transfer "CNN"）
 
 [fastai](https://github.com/fastai/fastai "fastai")
 
-[DL-Ocean](https://github.com/machinelearningmindset/deep-learning-ocean DL-Ocean")
+[DL-Ocean](https://github.com/machinelearningmindset/deep-learning-ocean "DL-Ocean")
 
 # 实用工具:
 [面试](https://github.com/kdn251/interviews "面试")       [技术面试](https://github.com/CyC2018/CS-Notes "技术面试")
@@ -124,4 +124,4 @@
 [checkstyle](https://github.com/checkstyle/checkstyle "checkstyle")
 
 # NLP:
-[FunNLP](https://github.com/QUELUCIFER/funNLP FunNLP")
+[FunNLP](https://github.com/QUELUCIFER/funNLP "FunNLP")
