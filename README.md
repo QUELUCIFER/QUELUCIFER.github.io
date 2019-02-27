@@ -59,6 +59,8 @@
 
 [掘金](https://github.com/xitu/gold-miner "掘金")
 
+[TensorFlow文档]（https://www.tensorflow.org/）
+
 # Python相关：
 
 [Python脚本](https://github.com/geekcomputers/Python "Python脚本")
@@ -125,3 +127,11 @@
 
 # NLP:
 [FunNLP](https://github.com/QUELUCIFER/funNLP "FunNLP")
+
+# Papers:
+[paperswithcode](https://paperswithcode.com/)
+
+
+
+
+
