@@ -1,7 +1,20 @@
-**What is the difference between the cost function and the loss function for logistic regression?*8
+**What is the difference between the cost function and the loss function for logistic regression?**
 
 
 **The loss function computes the error for a single training example; the cost function is the average of the loss functions of the entire training set.**
+
+One step of ________ propagation on a computation graph yields derivative of final output variable.
+
+
+Backward
+
+正确 
+
+In this class, what does the coding convention dvar represent?
+
+The derivative of a final output variable with respect to various intermediate quantities.
+
+正确 
 
 我们来学习损失函数或 误差函数可以用来检测算法运行情况 如在算法输出时定义损失 y ̂和实标Y有可能是一个或半个平方误差 **你可以如此操作 但一般在逻辑回归里不进行此操作**
  
