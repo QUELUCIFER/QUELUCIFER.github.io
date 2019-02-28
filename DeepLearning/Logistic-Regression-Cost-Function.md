@@ -1,7 +1,7 @@
-**What is the difference between the cost function and the loss function for logistic regression?
+**What is the difference between the cost function and the loss function for logistic regression?*8
 
 
-**The loss function computes the error for a single training example; the cost function is the average of the loss functions of the entire training set.
+**The loss function computes the error for a single training example; the cost function is the average of the loss functions of the entire training set.**
 
 我们来学习损失函数或 误差函数可以用来检测算法运行情况 如在算法输出时定义损失 y ̂和实标Y有可能是一个或半个平方误差 **你可以如此操作 但一般在逻辑回归里不进行此操作**
  
@@ -17,7 +17,7 @@
 所以 在逻辑回归中 我们会设定 一个不同的损失函数充当平方误差 
 这样能产生一个凸象最优问题 将使之后的优化变得更容易 所以 实际要使用的逻辑回归 是我写在屏幕右上方的损失函数 
 
-[公式]-(y log (y^)+(1-y)log(1-y^)) [公式] 
+## [公式]-(y log (y^)+(1-y)log(1-y^)) [公式] 
 
 这里说明下为什么这个损失函数有意义 请记住 
 如果使用平方误差 平方误差需要尽可能的小 在此逻辑回归损失函数里 我们也要让这个数值尽可能小 为了帮助理解 我们举两个例子 第一个 我们假定Y=1 [公式] L (y^, y) -log(y ̂) 如果y等于1 第二项1-y等于0 
