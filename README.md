@@ -63,7 +63,7 @@
 
 [掘金](https://github.com/xitu/gold-miner "掘金")
 
-[TensorFlow文档]（https://www.tensorflow.org）
+[菜鸟教程](http://www.runoob.com)
 
 # Python相关：
 
