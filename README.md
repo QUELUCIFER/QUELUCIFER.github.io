@@ -59,9 +59,11 @@
 
 [掘金](https://github.com/xitu/gold-miner "掘金")
 
-[TensorFlow文档]（https://www.tensorflow.org/）
+[TensorFlow文档]（https://www.tensorflow.org）
 
 # Python相关：
+
+[Python-Data-Science-Handbook](https://github.com/jakevdp/PythonDataScienceHandbook  "Handbook")      [旋风之旅的Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 
 [Python脚本](https://github.com/geekcomputers/Python "Python脚本")
 
@@ -71,7 +73,7 @@
 
 [DL-Andrew-Ng](https://github.com/Kulbear/deep-learning-coursera "DL-Andrew-Ng")         [DL2](https://github.com/fengdu78/deeplearning_ai_books "DL2")
 
-[100-days-ML-code](https://github.com/Avik-Jain/100-Days-Of-ML-Code "100-days-ML-code")
+[100-days-ML-code](https://github.com/Avik-Jain/100-Days-Of-ML-Code "100-days-ML-code")        [100-days-ML-code华语版](https://github.com/MLEveryday/100-Days-Of-ML-Code "华语版")
 
 [交互](https://github.com/donnemartin/interactive-coding-challenges  "交互")
 
@@ -119,6 +121,8 @@
 [ansible](https://github.com/ansible/ansible "ansible")
 
 [leetcode](https://github.com/MisterBooo/LeetCodeAnimation "leetcode")
+
+[Bayesian-Methods](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 # Java:
 [Java](https://github.com/TheAlgorithms/Java "Java")
