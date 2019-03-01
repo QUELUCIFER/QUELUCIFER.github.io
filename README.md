@@ -5,6 +5,8 @@
 
 [CS](https://github.com/ossu/computer-science "CS")
 
+[All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+
 # 好用资源链接：
 
 [awesome-list](https://github.com/sindresorhus/awesome "awesome")
@@ -28,6 +30,8 @@
 [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata "awesome-bigdata")
 
 [awesome-crawler](https://github.com/BruceDone/awesome-crawler "awesome-crawler")
+
+[Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
 
 -------------------------------------
 
@@ -82,6 +86,8 @@
 [Python-Robotics](https://github.com/AtsushiSakai/PythonRobotics "Python-Robotics")
 
 [pyspider](https://github.com/binux/pyspider "pyspider")
+
+
 
 # AI相关：
 
