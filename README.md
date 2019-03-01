@@ -122,6 +122,10 @@
 # 实用工具:
 [面试](https://github.com/kdn251/interviews "面试")       [技术面试](https://github.com/CyC2018/CS-Notes "技术面试")
 
+[算法面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+
+[Visualizes Algorithms](https://github.com/algorithm-visualizer/algorithm-visualizer)
+
 [shadowsocks](https://github.com/shadowsocks/shadowsocks-windows "shadowsocks")
 
 [ansible](https://github.com/ansible/ansible "ansible")
