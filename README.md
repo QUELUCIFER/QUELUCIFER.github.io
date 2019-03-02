@@ -150,6 +150,8 @@
 
 [HanLP](https://github.com/hankcs/HanLP)     [nltk](https://github.com/nltk/nltk)
 
+[lazynlp](https://github.com/chiphuyen/lazynlp)
+
 # Papers:
 [paperswithcode](https://paperswithcode.com/)
 
