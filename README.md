@@ -7,6 +7,8 @@
 
 [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 
+[Coding-Interview-University](https://github.com/jwasham/coding-interview-university)
+
 # 好用资源链接：
 
 [awesome-list](https://github.com/sindresorhus/awesome "awesome")
@@ -87,6 +89,8 @@
 
 [pyspider](https://github.com/binux/pyspider "pyspider")
 
+[The-Algorithms-Python](https://github.com/TheAlgorithms/Python)
+
 
 
 # AI相关：
@@ -122,7 +126,7 @@
 # 实用工具:
 [面试](https://github.com/kdn251/interviews "面试")       [技术面试](https://github.com/CyC2018/CS-Notes "技术面试")
 
-[算法面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+[算法面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)         [Tech-面试手册](https://github.com/yangshun/tech-interview-handbook)
 
 [Visualizes Algorithms](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
