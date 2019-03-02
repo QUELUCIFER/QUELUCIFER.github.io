@@ -77,7 +77,7 @@
 
 [ML-Algorithms](https://github.com/rushter/MLAlgorithms "ML-Algorithms")
 
-[DL-Andrew-Ng](https://github.com/Kulbear/deep-learning-coursera "DL-Andrew-Ng")         [DL2](https://github.com/fengdu78/deeplearning_ai_books "DL2")
+[DL-Andrew-Ng](https://github.com/Kulbear/deep-learning-coursera "DL-Andrew-Ng")   [DL2](https://github.com/fengdu78/deeplearning_ai_books "DL2")  [笔记](https://github.com/fengdu78/deeplearning_ai_books)
 
 [100-days-ML-code](https://github.com/Avik-Jain/100-Days-Of-ML-Code "100-days-ML-code")        [100-days-ML-code华语版](https://github.com/MLEveryday/100-Days-Of-ML-Code "华语版")
 
