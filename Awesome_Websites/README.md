@@ -1,4 +1,4 @@
-1.[有趣网址之家](https://youquhome.com/)      [保护隐私工具网站](https://www.privacytools.io/)
+1.[有趣网址之家](https://youquhome.com/)      [保护隐私工具网站](https://www.privacytools.io)   [软件大全](https://cn.uptodown.com)
 
 - [](1)
 
