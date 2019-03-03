@@ -33,7 +33,16 @@
 1.[线代](http://immersivemath.com/ila/index.html)
 
 
+# security
+[security-for-developers](https://github.com/FallibleInc/security-guide-for-developers) 
 
+[e-books](https://github.com/Hack-with-Github/Free-Security-eBooks)
+
+[awesome-android-security](https://github.com/ashishb/android-security-awesome)
+
+[Security Monkey monitors](https://github.com/Netflix/security_monkey)
+
+[awesome-security](https://github.com/sbilly/awesome-security)
 
 
 # 文本处理
