@@ -9,6 +9,8 @@
 
 [Coding-Interview-University](https://github.com/jwasham/coding-interview-university)
 
+[tutorialspoint资源](https://www.tutorialspoint.com/)
+
 # 好用资源链接：
 
 [awesome-list](https://github.com/sindresorhus/awesome "awesome")
