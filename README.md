@@ -17,7 +17,7 @@
 
 [awesome-hacking](https://github.com/Hack-with-Github/Awesome-Hacking "awesome-hacking")      [黑客技术](https://github.com/Micropoor/Micro8 "黑客技术")
 
-[awesome-python](https://github.com/vinta/awesome-python "awesome-python")
+[awesome-python](https://github.com/vinta/awesome-python "awesome-python")  [awesome-C](https://github.com/aleksandar-todorovic/awesome-c)  [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 
 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning "awesome-deep-learning")
 
@@ -34,6 +34,10 @@
 [awesome-crawler](https://github.com/BruceDone/awesome-crawler "awesome-crawler")
 
 [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
+
+[awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)
+
+[awesome-ML](https://github.com/josephmisiti/awesome-machine-learning)
 
 -------------------------------------
 
