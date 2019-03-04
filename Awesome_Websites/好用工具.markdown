@@ -1,1 +1,9 @@
+1.[Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡](https://github.com/schollz/howmanypeoplearearound)
 
+2.[Tools for capturing and analysing keyboard input paired with microphone capture ](https://github.com/ggerganov/kbd-audio)
+
+3.[Advanced Raspberry Pi FM transmitter with RDS encoding](https://github.com/Miegl/PiFmAdv)
+
+4.[Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog)
+
+5.[Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat](https://github.com/brannondorsey/wifi-cracking)
