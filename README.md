@@ -11,6 +11,8 @@
 
 [tutorialspoint资源](https://www.tutorialspoint.com/)
 
+[A collection of (mostly) technical things every software developer should know](https://github.com/mtdvio/every-programmer-should-know)
+
 # 好用资源链接：
 
 [awesome-list](https://github.com/sindresorhus/awesome "awesome")
@@ -72,6 +74,8 @@
 [掘金](https://github.com/xitu/gold-miner "掘金")
 
 [菜鸟教程](http://www.runoob.com)
+
+[professional-programming](https://github.com/charlax/professional-programming)
 
 # Python相关：
 
@@ -160,6 +164,8 @@
 
 # Papers:
 [paperswithcode](https://paperswithcode.com/)
+
+[CS-papers](https://github.com/papers-we-love/papers-we-love)
 
 # Network Security:
 [infosec](https://github.com/onlurking/awesome-infosec)
