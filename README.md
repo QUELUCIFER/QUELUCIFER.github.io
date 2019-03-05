@@ -97,7 +97,7 @@
 
 [The-Algorithms-Python](https://github.com/TheAlgorithms/Python)
 
-
+[dive-into-ML](https://github.com/hangtwenty/dive-into-machine-learning)
 
 # AI相关：
 
@@ -161,7 +161,8 @@
 # Papers:
 [paperswithcode](https://paperswithcode.com/)
 
-
+# Network Security:
+[infosec](https://github.com/onlurking/awesome-infosec)
 
 
 
