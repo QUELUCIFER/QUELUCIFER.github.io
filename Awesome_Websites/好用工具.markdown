@@ -7,3 +7,7 @@
 4.[Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog)
 
 5.[Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat](https://github.com/brannondorsey/wifi-cracking)
+
+6.[vectary-the-easist-3Ddesign-tool](https://www.vectary.com/)
+
+
