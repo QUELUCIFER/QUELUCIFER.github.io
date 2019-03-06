@@ -16,6 +16,8 @@
 
 9.[在线邮箱mohmal](https://www.mohmal.com/zh)
 
+10.[stanford-Lagunita](https://lagunita.stanford.edu/courses)
+
 # 语言学习:
 1.[TV5monde法语](https://langue-francaise.tv5monde.com)
 
