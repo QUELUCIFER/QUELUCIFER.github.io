@@ -13,6 +13,8 @@
 
 [A collection of (mostly) technical things every software developer should know](https://github.com/mtdvio/every-programmer-should-know)
 
+[Root-Me](https://www.root-me.org/)
+
 # 好用资源链接：
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
@@ -128,7 +130,7 @@
 
 [ChatterBot](https://github.com/gunthercox/ChatterBot "ChatterBot")
 
-[CNN](https://github.com/lengstrom/fast-style-transfer "CNN"）
+[CNN](https://github.com/lengstrom/fast-style-transfer)
 
 [fastai](https://github.com/fastai/fastai "fastai")
 
@@ -171,5 +173,5 @@
 # Network Security:
 [infosec](https://github.com/onlurking/awesome-infosec)
 
-
+[AlgoSecure](https://www.algosecure.fr/)
 
