@@ -47,3 +47,8 @@
 
 # 文本处理
 1.[typely-proofreading](https://typely.com/)
+
+# 实用网站
+1.[digital](https://digital.com/)
+
+2.[tor指南](http://dpi.iwishi.top/)
