@@ -6,6 +6,8 @@
 1.[一译-Python](https://yiyibooks.cn/)
 
 # 在线书籍
-1.[书报告：Python中的数据结构和算法](https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/)
+1.[鸟哥的Linux私房菜](http://cn.linux.vbird.org/)
 
-2.[用UNIX写本书](https://joecmarshall.com/posts/book-writing-environment/)
+2.[书报告：Python中的数据结构和算法](https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/)
+
+3.[用UNIX写本书](https://joecmarshall.com/posts/book-writing-environment/)
