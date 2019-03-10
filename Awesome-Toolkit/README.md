@@ -16,12 +16,12 @@
 
 2.open-source开源资源
 
-- [1]  [MS-opensource](https://opensource.microsoft.com/)
-- [2]  [Source-Forge](https://sourceforge.net/)
-- [3]  [Google-Developers](https://developers.google.com/)    [Google-Ai(tools)](https://ai.google/)
-- [4]  [GitLab](https://about.gitlab.com/)
-- [5]  [GNU](https://www.gnu.org/)
-- [6]  [CodeTriage-开源回购](https://www.codetriage.com/)
+- [1] [MS-opensource](https://opensource.microsoft.com/)
+- [2] [Source-Forge](https://sourceforge.net/)
+- [3] [Google-Developers](https://developers.google.com/)    [Google-Ai(tools)](https://ai.google/)
+- [4] [GitLab](https://about.gitlab.com/)
+- [5] [GNU](https://www.gnu.org/)
+- [6] [CodeTriage-开源回购](https://www.codetriage.com/)
 
 3.在线实用工具
 
@@ -78,4 +78,6 @@
 - [1]  [Rich-Dad](https://www.richdad.com/)
 
 - [2]  [firsttimeonly](https://www.firsttimersonly.com/)
+
+9.在线笔记&思维导图
 
