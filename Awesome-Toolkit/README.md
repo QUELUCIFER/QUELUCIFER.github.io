@@ -25,23 +25,23 @@
 
 3.在线实用工具
 
-- [1]  [算法可视化](https://visualgo.net/en)     [write-as-anonymous](https://write.as/)
+- [x]  [算法可视化](https://visualgo.net/en)     [write-as-anonymous](https://write.as/)
 
-- [2]  [Nice-Tools](http://www.nicetool.net/)   [Online ToolFuck.com Website](https://www.toolfk.com/) 
+- [x]  [Nice-Tools](http://www.nicetool.net/)   [Online ToolFuck.com Website](https://www.toolfk.com/) 
 
-- [3]  [app-yunser](https://app.yunser.com/)     [dev-yunser](https://dev.yunser.com/)
+- [x]  [app-yunser](https://app.yunser.com/)     [dev-yunser](https://dev.yunser.com/)
 
-- [4]  [Private-Bin-在线粘贴板，数据在浏览器内进行AES-256加密。](https://privatebin.net/)
+- [x]  [Private-Bin-在线粘贴板，数据在浏览器内进行AES-256加密。](https://privatebin.net/)
 
-- [5]  [3D66网](https://www.3d66.com/)
+- [x]  [3D66网](https://www.3d66.com/)
 
-- [6]  [UpWork](  https://www.upwork.com/) [Freelancer](https://www.freelancer.com/)    [猪八戒外包](https://shanghai.zbj.com/)  
+- [x]  [UpWork](  https://www.upwork.com/) [Freelancer](https://www.freelancer.com/)    [猪八戒外包](https://shanghai.zbj.com/)  
 
-- [7]  [CryptPad是流行的办公工具和云服务的私有设计替代品。](https://cryptpad.fr/)
+- [x]  [CryptPad是流行的办公工具和云服务的私有设计替代品。](https://cryptpad.fr/)
 
-- [8]  [在线硬件NI--自动化测试和自动化测量系统的全球领导者](http://www.ni.com/)    [Coral--使用我们的本地AI平台构建智能创意](https://coral.withgoogle.com/)
+- [x]  [在线硬件NI--自动化测试和自动化测量系统的全球领导者](http://www.ni.com/)    [Coral--使用我们的本地AI平台构建智能创意](https://coral.withgoogle.com/)
 
-- [9]  [Remove-BG-删除图像背景 ](https://www.remove.bg/)
+- [x]  [Remove-BG-删除图像背景 ](https://www.remove.bg/)
 
 4.在线IDE&OnlineJudge
 
@@ -67,17 +67,17 @@
 
 6.私密邮箱
 
-- [1]  [Proton-Mail](https://mail.protonmail.com/)
+- [ ]  [Proton-Mail](https://mail.protonmail.com/)
 
-- [2]  [CCC-edu](https://logon.ccc.edu)
+- [ ]  [CCC-edu](https://logon.ccc.edu)
 
 7.在线虚拟钢琴    [real-royal](https://real-royal.com/zh/)    [Virtual-Piano](https://virtualpiano.net/)
 
 8.在线学习平台
 
-- [1]  [Rich-Dad](https://www.richdad.com/)
+- [ ]  [Rich-Dad](https://www.richdad.com/)
 
-- [2]  [firsttimeonly](https://www.firsttimersonly.com/)
+- [ ]  [firsttimeonly](https://www.firsttimersonly.com/)
 
 9.在线笔记&思维导图
 
