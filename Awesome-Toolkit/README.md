@@ -16,12 +16,12 @@
 
 2.open-source开源资源
 
-- [1] [MS-opensource](https://opensource.microsoft.com/)
-- [2] [Source-Forge](https://sourceforge.net/)
-- [3] [Google-Developers](https://developers.google.com/)    [Google-Ai(tools)](https://ai.google/)
-- [4] [GitLab](https://about.gitlab.com/)
-- [5] [GNU](https://www.gnu.org/)
-- [6] [CodeTriage-开源回购](https://www.codetriage.com/)
+- [x] [MS-opensource](https://opensource.microsoft.com/)
+- [x] [Source-Forge](https://sourceforge.net/)
+- [x] [Google-Developers](https://developers.google.com/)    [Google-Ai(tools)](https://ai.google/)
+- [x] [GitLab](https://about.gitlab.com/)
+- [x] [GNU](https://www.gnu.org/)
+- [x] [CodeTriage-开源回购](https://www.codetriage.com/)
 
 3.在线实用工具
 
@@ -45,13 +45,13 @@
 
 4.在线IDE&OnlineJudge
 
-- [1]  [在线IDE-TutorialsPoint](https://www.tutorialspoint.com/index.htm)
+- [ ]  [在线IDE-TutorialsPoint](https://www.tutorialspoint.com/index.htm)
 
-- [2]  [IDE-one-numpy](https://ideone.com/)
+- [ ]  [IDE-one-numpy](https://ideone.com/)
 
-- [3]  [REPL](https://repl.it/)
+- [ ]  [REPL](https://repl.it/)
 
-- [4]  [Thu-OJ](https://dsa.cs.tsinghua.edu.cn/oj/index.shtml)
+- [ ]  [Thu-OJ](https://dsa.cs.tsinghua.edu.cn/oj/index.shtml)
 
 5.在线邮箱
 
