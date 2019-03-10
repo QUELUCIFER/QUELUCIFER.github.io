@@ -8,6 +8,12 @@
 
 - [保护隐私工具网站](https://www.privacytools.io)
 
+- [teach-yourself-CS](https://teachyourselfcs.com/)     [Class-Central](https://www.class-central.com/)
+
+- [Gitstar-Ranking](https://gitstar-ranking.com/)
+
+- [Lagunita-Stanford](https://lagunita.stanford.edu/)    [Netacad-Cisco-Network-Academy](https://www.netacad.com/)
+
 2.open-source开源资源
 
 - [1]  [MS-opensource](https://opensource.microsoft.com/)
@@ -15,12 +21,13 @@
 - [3]  [Google-Developers](https://developers.google.com/)    [Google-Ai(tools)](https://ai.google/)
 - [4]  [GitLab](https://about.gitlab.com/)
 - [5]  [GNU](https://www.gnu.org/)
+- [6]  [CodeTriage-开源回购](https://www.codetriage.com/)
 
 3.在线实用工具
 
-- [1]  [Nice-Tools](http://www.nicetool.net/)
+- [1]  [算法可视化](https://visualgo.net/en)     [write-as-anonymous](https://write.as/)
 
-- [2]  [Online ToolFuck.com Website](https://www.toolfk.com/) 
+- [2]  [Nice-Tools](http://www.nicetool.net/)   [Online ToolFuck.com Website](https://www.toolfk.com/) 
 
 - [3]  [app-yunser](https://app.yunser.com/)     [dev-yunser](https://dev.yunser.com/)
 
@@ -29,6 +36,12 @@
 - [5]  [3D66网](https://www.3d66.com/)
 
 - [6]  [UpWork](  https://www.upwork.com/) [Freelancer](https://www.freelancer.com/)    [猪八戒外包](https://shanghai.zbj.com/)  
+
+- [7]  [CryptPad是流行的办公工具和云服务的私有设计替代品。](https://cryptpad.fr/)
+
+- [8]  [在线硬件NI--自动化测试和自动化测量系统的全球领导者](http://www.ni.com/)    [Coral--使用我们的本地AI平台构建智能创意](https://coral.withgoogle.com/)
+
+- [9]  [Remove-BG-删除图像背景 ](https://www.remove.bg/)
 
 4.在线IDE&OnlineJudge
 
@@ -63,4 +76,6 @@
 8.在线学习平台
 
 - [1]  [Rich-Dad](https://www.richdad.com/)
+
+- [2]  [firsttimeonly](https://www.firsttimersonly.com/)
 
