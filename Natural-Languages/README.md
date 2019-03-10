@@ -2,6 +2,9 @@
 
 [tingroom](http://www.tingroom.com)
 
+[CEFR-欧洲语言标准分级](http://www.commoneuropeanframework.org/)
+
+[Babbel](https://my.babbel.com/)
 
 # English
 
