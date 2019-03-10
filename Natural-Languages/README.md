@@ -1,14 +1,32 @@
+[多邻国](https://en.duolingo.com/)
+
+[tingroom-zh](www.tingroom.com)
+
+
 # English
 
 1.[the-free-dictionary](https://www.thefreedictionary.com/)
 
+2.[IELTS-zh-CN](https://www.chinaielts.org/)    [IELTS](https://www.ielts.org/)
+
+3.[TOEFL-zh-CN](https://www.ets.org/zh/toefl)
+
 # Japanese
 
+1.[日语交流](http://www.jfkc.jp/)
+
+2.[日语](http://jp.tingroom.com/)
 
 
 # French
 
 1.[fr-the-free-dictionary](https://fr.thefreedictionary.com/)
+
+2.[法语等多语言学习](http://fr.tingroom.com/)
+
+3.[TV5monde法语](https://langue-francaise.tv5monde.com)
+
+4.[linguotv](http://linguo.tv/videos)
 
 # German
 
