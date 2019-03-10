@@ -24,13 +24,13 @@
 # Geek-Websites:
 1.[Geeks-for-geeks](https://www.geeksforgeeks.org/)
 
-2.
+2.[码农网](https://www.codercto.com/)
 
 3.[Dream-In-Code](https://www.dreamincode.net/)
 
 4.[Python中的经典计算机科学问题](https://www.manning.com/books/classic-computer-science-problems-in-python)
 
-5.[
+5.[Gist-GitHub](https://gist.github.com/)
 
 # 数学
 1.[线代](http://immersivemath.com/ila/index.html)
