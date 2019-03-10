@@ -1,10 +1,11 @@
-1.[有趣网址之家](https://youquhome.com/)      [保护隐私工具网站](https://www.privacytools.io)   [软件大全](https://cn.uptodown.com)
+# CS学习资源
+1.[Class-Central](https://www.class-central.com/)
 
-2.[MOOC-EDX](http://mooc.org/)
+2.[菜鸟教程](http://www.runoob.com/)
 
-3.[3D66网](https://www.3d66.com/)
+3.[MOOC-EDX](http://mooc.org/)
 
-4.[freelancer](https://www.freelancer.com/)    [猪八戒外包](https://shanghai.zbj.com/)
+4.
 
 5.[tor-project](https://www.torproject.org/)
 
@@ -20,16 +21,16 @@
 
 11.[WireGuard](https://www.wireguard.com/)   [GitHub](https://github.com/WireGuard/WireGuard)
 
-# 语言学习:
-1.[TV5monde法语](https://langue-francaise.tv5monde.com)
+# Geek-Websites:
+1.[Geeks-for-geeks](https://www.geeksforgeeks.org/)
 
-2.[法语等多语言学习](http://fr.tingroom.com/)   [日语](http://jp.tingroom.com/)
+2.
 
-3.[多邻国](https://en.duolingo.com/)
+3.[Dream-In-Code](https://www.dreamincode.net/)
 
-4.[linguotv](http://linguo.tv/videos)
+4.[Python中的经典计算机科学问题](https://www.manning.com/books/classic-computer-science-problems-in-python)
 
-5.[日语交流](http://www.jfkc.jp/)
+5.[
 
 # 数学
 1.[线代](http://immersivemath.com/ila/index.html)
