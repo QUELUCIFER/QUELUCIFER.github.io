@@ -1,6 +1,6 @@
 [多邻国](https://en.duolingo.com/)
 
-[tingroom](https://www.tingroom.com)
+[tingroom](http://www.tingroom.com)
 
 
 # English
