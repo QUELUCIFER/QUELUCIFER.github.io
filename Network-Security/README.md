@@ -1,4 +1,4 @@
-# security
+# Security
 1.[security-for-developers](https://github.com/FallibleInc/security-guide-for-developers) 
 
 2.[e-books](https://github.com/Hack-with-Github/Free-Security-eBooks)
@@ -9,22 +9,29 @@
 
 5.[awesome-security](https://github.com/sbilly/awesome-security)
 
-6.[Game-of-Hacks](http://www.gameofhacks.com/)
+6.[CISSP®（认证信息系统安全专业人员)](https://www.pluralsight.com/)
 
-7.[Hack-this](https://www.hackthis.co.uk/)
+7.[IPVanish-Secure-VPN](https://www.ipvanish.com/)
 
-**8.[Root-me](https://www.root-me.org)
+8.[Secure-Linux-OS-Qubes](https://www.qubes-os.org/)
 
-9.[Major-League-Hacking-Hackthon](https://mlh.io/)
+9.[安全论坛csoonline](https://www.csoonline.com/)
 
-10.[CISSP®（认证信息系统安全专业人员)](https://www.pluralsight.com/)
+10.[Keeper-Security-Password](https://keepersecurity.com/)
 
-11.[IPVanish-Secure-VPN](https://www.ipvanish.com/)
+11.[Truth-Finder](https://www.truthfinder.com/)
 
-12.[Secure-Linux-OS-Qubes](https://www.qubes-os.org/)
+# Hacking
+1.[Game-of-Hacks](http://www.gameofhacks.com/)
 
-13.[安全论坛csoonline](https://www.csoonline.com/)
+2.[Hack-this](https://www.hackthis.co.uk/)
 
-14.[Keeper-Security-Password](https://keepersecurity.com/)
+3.[Root-me](https://www.root-me.org)
 
-15.[Truth-Finder](https://www.truthfinder.com/)
+4.[Major-League-Hacking-Hackthon](https://mlh.io/)
+
+5.[Paid-Cybrary-百库](https://app.cybrary.it/)   [Cybrary](https://www.cybrary.it)
+
+6.[ Cracking Codes with Python](https://inventwithpython.com/)
+
+7.[Break-the-security-tutorial](http://breakthesecurity.cysecurity.org/)
