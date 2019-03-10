@@ -1,6 +1,12 @@
 1.网址大全
 
-[egouz-网站大全](https://www.egouz.com/)     目前收录国外网站19037个，国家54个，类别42个
+- [egouz-网站大全](https://www.egouz.com/)     目前收录国外网站19037个，国家54个，类别42个
+
+- [软件大全](https://cn.uptodown.com)
+
+- [有趣网址之家](https://youquhome.com/) 
+
+- [保护隐私工具网站](https://www.privacytools.io)
 
 2.open-source开源资源
 
@@ -19,6 +25,10 @@
 - [3]  [app-yunser](https://app.yunser.com/)     [dev-yunser](https://dev.yunser.com/)
 
 - [4]  [Private-Bin-在线粘贴板，数据在浏览器内进行AES-256加密。](https://privatebin.net/)
+
+- [5]  [3D66网](https://www.3d66.com/)
+
+- [6]  [UpWork](  https://www.upwork.com/) [Freelancer](https://www.freelancer.com/)    [猪八戒外包](https://shanghai.zbj.com/)  
 
 4.在线IDE&OnlineJudge
 
