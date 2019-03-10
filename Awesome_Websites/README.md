@@ -5,7 +5,7 @@
 
 3.[MOOC-EDX](http://mooc.org/)
 
-4.
+4.[Public-DNS-Server-List](https://public-dns.info//)
 
 5.[tor-project](https://www.torproject.org/)
 
@@ -31,6 +31,10 @@
 4.[Python中的经典计算机科学问题](https://www.manning.com/books/classic-computer-science-problems-in-python)
 
 5.[Gist-GitHub](https://gist.github.com/)
+
+6.[Techug-程序师](http://www.techug.com/)
+
+7.[CysecGuide](https://cysecguide.blogspot.com/)
 
 # 数学
 1.[线代](http://immersivemath.com/ila/index.html)
