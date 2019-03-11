@@ -14,6 +14,8 @@
 
 - [Lagunita-Stanford](https://lagunita.stanford.edu/)    [Netacad-Cisco-Network-Academy](https://www.netacad.com/)
 
+- [W3xue](https://www.w3xue.com/)
+
 2.open-source开源资源
 
 - [x] [MS-opensource](https://opensource.microsoft.com/)
