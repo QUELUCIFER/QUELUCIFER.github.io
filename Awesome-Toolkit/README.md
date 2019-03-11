@@ -83,3 +83,12 @@
 
 9.在线笔记&思维导图
 
+10.在线接收u手机验证码
+
+- [ ]  [云短信pdflibr](https://www.pdflibr.com/)
+
+- [ ]  [Recieve-SMS](https://receive-sms.com/)   [Receive FREE SMS online](http://receivefreesms.com/)   [Recieve-SMS-Online](https://www.receivesmsonline.net/)
+
+- [ ]  [Free-Online-Phone](https://www.freeonlinephone.org/)  [Receive SMS Online for FREE and with NO Registration](http://receive-sms-online.com/)
+
+- [ ]  [SMS Receive Free](https://smsreceivefree.com/)   [ Sellaite](http://sms.sellaite.com/)
