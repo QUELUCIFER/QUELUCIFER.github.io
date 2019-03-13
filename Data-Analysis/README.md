@@ -7,3 +7,5 @@
 4.[Data-BathHacked](https://data.bathhacked.org/)
 
 5.[BDP-零基础数据分析平台](https://me.bdp.cn/)
+
+6.[Awesome-Python-Login-Model](https://github.com/CriseLYJ/awesome-python-login-model)
