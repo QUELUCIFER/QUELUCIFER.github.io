@@ -43,9 +43,9 @@
 
 - [x]  [在线硬件NI--自动化测试和自动化测量系统的全球领导者](http://www.ni.com/)    [Coral--使用我们的本地AI平台构建智能创意](https://coral.withgoogle.com/)
 
-- [x]  [Remove-BG-删除图像背景 ](https://www.remove.bg/)
+- [x]  [Remove-BG-删除图像背景 ](https://www.remove.bg/)      [IP/DNS-Detection](https://ipleak.net/)
 
-- [x]  [在线工具](https://tool.lu/)
+- [x]  [在线工具](https://tool.lu/)              [rootopen-常用命令大全](https://www.rootopen.com/)
 
 4.在线IDE&OnlineJudge
 
