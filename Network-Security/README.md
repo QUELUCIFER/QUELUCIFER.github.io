@@ -33,7 +33,7 @@
 
 2.[测试实验室](https://lab.pentestit.ru/)      [参考资料](https://www.anquanke.com/post/id/153946)   [Blog](http://pentestit.com/)
 
-3.[Root-me](https://www.root-me.org)
+3.[Root-me](https://www.root-me.org)        [Offensive-Security](https://www.offensive-security.com/)
 
 4.[Major-League-Hacking-Hackthon](https://mlh.io/)
 
