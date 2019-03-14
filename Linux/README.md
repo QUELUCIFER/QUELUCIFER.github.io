@@ -2,4 +2,6 @@
 
 2.[Linux-公社-pure-boot](https://www.linuxidc.com/)
 
+3.[Kali-Training](https://kali.training/)
 
+4.[Linux-CN](https://linux.cn/)
