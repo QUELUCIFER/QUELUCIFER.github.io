@@ -19,3 +19,12 @@ int main()
    return 0;
 }
 
+//输入示例:24
+//输出示例:
+//Cube=6,Triple=(3,4,5)
+//Cube=12,Triple=(6,8,10)
+//Cube=18,Triple=(2,12,16)
+//Cube=18,Triple=(9,12,15)
+//Cube=19,Triple=(3,10,18)
+//Cube=20,Triple=(7,14,17)
+//Cube=24,Triple=(12,16,20)
