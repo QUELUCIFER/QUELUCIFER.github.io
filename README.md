@@ -22,7 +22,7 @@
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
 + [awesome-ruby](https://github.com/markets/awesome-ruby): Ruby 资源集合
-+ [awesome-go](https://github.co m/avelino/awesome-go): Go 资源集合
++ [awesome-go](https://github.com/avelino/awesome-go): Go 资源集合
 + [awesome-cpp](https://github.com/fffaraz/awesome-cpp): C++ 的资源集合
 + [awesome-elixir](https://github.com/h4cc/awesome-elixir): Elixir 资源集合
 + [awesome-emacs](https://github.com/emacs-tw/awesome-emacs): Emacs 资源整合
@@ -58,34 +58,27 @@
 
 
 + [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [awesome-list](https://github.com/sindresorhus/awesome "awesome")
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses "awesome-courses")
+- [awesome-hacking](https://github.com/Hack-with-Github/Awesome-Hacking "awesome-hacking")      [黑客技术](https://github.com/Micropoor/Micro8 "黑客技术")
 
-[awesome-list](https://github.com/sindresorhus/awesome "awesome")
+- [awesome-python](https://github.com/vinta/awesome-python "awesome-python")  [awesome-C](https://github.com/aleksandar-todorovic/awesome-c)  [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 
-[awesome-courses](https://github.com/prakhar1989/awesome-courses "awesome-courses")
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning "awesome-deep-learning")
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers "awesome-deep-learning-papers")
+- [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping "awesome-web-scraping")   [web-scrapying](https://github.com/topics/web-scraping)
+- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications "awesome-python-applications")
 
-[awesome-hacking](https://github.com/Hack-with-Github/Awesome-Hacking "awesome-hacking")      [黑客技术](https://github.com/Micropoor/Micro8 "黑客技术")
+- [awesome-algorithm](https://github.com/apachecn/awesome-algorithm "awesome-algorithm")              
+- [算法第四版](https://algs4.cs.princeton.edu/home/  "算法第四版") 
+- [github](https://github.com/kevin-wayne/algs4)
 
-[awesome-python](https://github.com/vinta/awesome-python "awesome-python")  [awesome-C](https://github.com/aleksandar-todorovic/awesome-c)  [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-
-[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning "awesome-deep-learning")
-
-[awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers "awesome-deep-learning-papers")
-
-[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping "awesome-web-scraping")   [web-scrapying](https://github.com/topics/web-scraping)
-
-[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications "awesome-python-applications")
-
-[awesome-algorithm](https://github.com/apachecn/awesome-algorithm "awesome-algorithm")               [算法第四版](https://algs4.cs.princeton.edu/home/  "算法第四版") [github](https://github.com/kevin-wayne/algs4)
-
-[awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata "awesome-bigdata")
-
-[awesome-crawler](https://github.com/BruceDone/awesome-crawler "awesome-crawler")
-
-[Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
-
-[awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)
-
-[awesome-ML](https://github.com/josephmisiti/awesome-machine-learning)
+- [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata "awesome-bigdata")
+- [awesome-crawler](https://github.com/BruceDone/awesome-crawler "awesome-crawler")
+- [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
+- [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)
+- [awesome-ML](https://github.com/josephmisiti/awesome-machine-learning)
+- [awesome-resources](https://github.com/lyfeyaj/awesome-resources/)
 
 -------------------------------------
 
