@@ -18,3 +18,20 @@ int main()
    
    return 0;
 }
+
+//输入示例:
+//0 0 0 0
+//0 0 0 100
+//5 20 34 325
+//4 5 6 7
+//283 102 23 320
+//203 301 203 40
+//-1 -1 -1 -1
+
+//输出示例:
+//CaseNo1The triple peak occurs in21252days
+//CaseNo2The triple peak occurs in21152days
+//CaseNo3The triple peak occurs in19575days
+//CaseNo4The triple peak occurs in16994days
+//CaseNo5The triple peak occurs in8910days
+//CaseNo6The triple peak occurs in10789days
