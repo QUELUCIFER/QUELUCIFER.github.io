@@ -97,3 +97,6 @@
 
 11.IP检测
 === [IP138](http://www.ip138.com/) ===
+
+12.壁纸
+ - [ ] [wallhaven](https://alpha.wallhaven.cc/)
