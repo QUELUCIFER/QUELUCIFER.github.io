@@ -60,10 +60,10 @@ bool IsFake(char c,bool light)
     return true;
 }
 
-//输入示例:
-//1
-//ABCD EFGH even
-//ABCI EFJK up
-//ABIJ EFGH even
+输入示例:
+1
+ABCD EFGH even
+ABCI EFJK up
+ABIJ EFGH even
 
-//输出示例:K is the counterfeit coin and it is light.
+输出示例:K is the counterfeit coin and it is light.
