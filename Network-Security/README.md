@@ -26,7 +26,7 @@
 
 11.[Truth-Finder](https://www.truthfinder.com/)
 
-12.[网络安全-网易](http://tech.163.com/special/000915SN/hackerSchool.html)
+12.[open-source-cybersecurity-toolbox](https://n0where.net/open-source-cybersecurity-toolbox)
 
 # Hacking
 1.[hackerdoor](http://www.hackerdoor.com/)     [sectools](https://sectools.org/)     [We-Chall-网站大全](http://www.wechall.net/)
