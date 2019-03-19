@@ -28,6 +28,8 @@
 
 12.[open-source-cybersecurity-toolbox](https://n0where.net/open-source-cybersecurity-toolbox)
 
+13.[Ethical-hacking-and-penetration-testing](https://miloserdov.org/)
+
 # Hacking
 1.[hackerdoor](http://www.hackerdoor.com/)     [sectools](https://sectools.org/)     [We-Chall-网站大全](http://www.wechall.net/)
 
