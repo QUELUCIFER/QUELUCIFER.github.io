@@ -18,6 +18,8 @@
 
 - [free-for-dev-软件大全](https://free-for.dev/#/)
 
+- [Build-your-own-X-自己做](https://github.com/danistefanovic/build-your-own-x)
+
 2.open-source开源资源
 
 - [x] [MS-opensource](https://opensource.microsoft.com/)
@@ -39,7 +41,7 @@
 
 - [x]  [3D66网](https://www.3d66.com/)
 
-- [x]  [UpWork](  https://www.upwork.com/) [Freelancer](https://www.freelancer.com/)    [猪八戒外包](https://shanghai.zbj.com/)  
+- [x]  [UpWork](  https://www.upwork.com/) [Freelancer](https://www.freelancer.com/)    [猪八戒外包](https://shanghai.zbj.com/)  [The-Remote-Freelancer](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 - [x]  [CryptPad是流行的办公工具和云服务的私有设计替代品。](https://cryptpad.fr/)
 
@@ -48,6 +50,10 @@
 - [x]  [Remove-BG-删除图像背景 ](https://www.remove.bg/)      [IP/DNS-Detection](https://ipleak.net/)
 
 - [x]  [在线工具](https://tool.lu/)              [rootopen-常用命令大全](https://www.rootopen.com/)
+
+- [x]  [discourse-在线聊天室](https://github.com/discourse/discourse)
+
+- [x]  [free-geo-ip](https://github.com/fiorix/freegeoip)       [free-geo-DB](https://github.com/delight-im/FreeGeoDB)
 
 4.在线IDE&OnlineJudge
 
