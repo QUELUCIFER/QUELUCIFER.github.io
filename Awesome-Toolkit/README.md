@@ -16,6 +16,8 @@
 
 - [W3xue](https://www.w3xue.com/)
 
+- [free-for-dev-软件大全](https://free-for.dev/#/)
+
 2.open-source开源资源
 
 - [x] [MS-opensource](https://opensource.microsoft.com/)
