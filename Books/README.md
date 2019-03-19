@@ -11,3 +11,7 @@
 2.[书报告：Python中的数据结构和算法](https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/)
 
 3.[用UNIX写本书](https://joecmarshall.com/posts/book-writing-environment/)
+
+4.[free-books-for-data-science](https://github.com/chaconnewu/free-data-science-books)
+
+5.[free-security-ebooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
