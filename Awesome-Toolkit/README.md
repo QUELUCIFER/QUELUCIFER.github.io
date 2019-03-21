@@ -104,7 +104,14 @@
 - [ ]  [SMS Receive Free](https://smsreceivefree.com/)   [ Sellaite](http://sms.sellaite.com/)
 
 11.IP检测
-=== [IP138](http://www.ip138.com/) ===
+- [IP138](http://www.ip138.com/) 
 
 12.壁纸
  - [ ] [wallhaven](https://alpha.wallhaven.cc/)
+
+13.盲打练习
+ - [ ]  [Touch-Typing-Study](https://www.typingstudy.com/)
+ 
+ - [ ]  [Learn-To-Type](https://www.typing.com/)
+ 
+ - [ ]  [打字练习](https://www.keybr.com/)
