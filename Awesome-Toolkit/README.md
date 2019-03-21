@@ -28,6 +28,7 @@
 - [x] [GitLab](https://about.gitlab.com/)
 - [x] [GNU](https://www.gnu.org/)
 - [x] [CodeTriage-开源回购](https://www.codetriage.com/)
+- [x] [Sphinx-Search-Engine](https://sphinxsearch.com/)
 
 3.在线实用工具
 
