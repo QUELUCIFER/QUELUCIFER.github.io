@@ -2,7 +2,7 @@
 
 - [egouz-网站大全](https://www.egouz.com/)     目前收录国外网站19037个，国家54个，类别42个
 
-- [软件大全](https://cn.uptodown.com)
+- [软件大全](https://cn.uptodown.com)    [
 
 - [有趣网址之家](https://youquhome.com/) 
 
@@ -23,12 +23,16 @@
 2.open-source开源资源
 
 - [x] [MS-opensource](https://opensource.microsoft.com/)
-- [x] [Source-Forge](https://sourceforge.net/)
+- [x] [Source-Forge](https://sourceforge.net/)  - [fosshub](https://www.fosshub.com/) - [osdn](https://osdn.net/)  -[f-driod](https://f-droid.org/en/)
 - [x] [Google-Developers](https://developers.google.com/)    [Google-Ai(tools)](https://ai.google/)
 - [x] [GitLab](https://about.gitlab.com/)
 - [x] [GNU](https://www.gnu.org/)
 - [x] [CodeTriage-开源回购](https://www.codetriage.com/)
 - [x] [Sphinx-Search-Engine](https://sphinxsearch.com/)
+- [x] [open-source](https://opensource.com/)
+- [x] [Audacity-音频软件](https://opensource.com/)
+- [x] [Snipe-IT是一个基于Laravel 5.4构建的免费开源（FOSS）项目](https://snipe-it.readme.io/)
+- [x] [Laravel-Web工匠的PHP框架](https://laravel.com/)
 
 3.在线实用工具
 
