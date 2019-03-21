@@ -2,13 +2,13 @@
 
 - [egouz-网站大全](https://www.egouz.com/)     目前收录国外网站19037个，国家54个，类别42个
 
-- [软件大全](https://cn.uptodown.com)    [
+- [软件大全](https://cn.uptodown.com)    
 
 - [有趣网址之家](https://youquhome.com/) 
 
 - [保护隐私工具网站](https://www.privacytools.io)
 
-- [teach-yourself-CS](https://teachyourselfcs.com/)     [Class-Central](https://www.class-central.com/)
+- [teach-yourself-CS](https://teachyourselfcs.com/)     [Class-Central](https://www.class-central.com/)  [teach-yourself-library](https://library.teachyourself.com/)
 
 - [Gitstar-Ranking](https://gitstar-ranking.com/)
 
