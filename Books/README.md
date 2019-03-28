@@ -1,6 +1,7 @@
 #  书籍合集
 1.[program-think-books](https://github.com/programthink/books)
 
+2.[哲学电子书](https://ctext.org/zhs)
 
 # 文档翻译
 1.[一译-Python](https://yiyibooks.cn/)
