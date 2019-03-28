@@ -3,6 +3,8 @@
 
 2.[哲学电子书](https://ctext.org/zhs)
 
+3.[互联网档案](https://archive.org/)
+
 # 文档翻译
 1.[一译-Python](https://yiyibooks.cn/)
 
