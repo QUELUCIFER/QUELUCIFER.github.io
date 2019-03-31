@@ -207,48 +207,48 @@ k
 
 ### TF
         import tensorflow as tf
-import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.gridspec as gridspec
-import os
-from tensorflow.examples.tutorials.mnist import input_data
+        import numpy as np
+        import matplotlib.pyplot as plt
+        import matplotlib.gridspec as gridspec
+        import os
+        from tensorflow.examples.tutorials.mnist import input_data
 
 
-mnist = input_data.read_data_sets('../../MNIST_data', one_hot=True)
-mb_size = 64 #minibatch的大小
-z_dim = 100  #隐变量z的维度
-X_dim = mnist.train.images.shape[1]  #784 #图片平展后的维度
-y_dim = mnist.train.labels.shape[1] #10 #0—9的标签
-h_dim = 128 #隐层维度
-c = 0
-lr = 1e-3
+       mnist = input_data.read_data_sets('../../MNIST_data', one_hot=True)
+       mb_size = 64 #minibatch的大小
+       z_dim = 100  #隐变量z的维度
+       X_dim = mnist.train.images.shape[1]  #784 #图片平展后的维度
+       y_dim = mnist.train.labels.shape[1] #10 #0—9的标签
+       h_dim = 128 #隐层维度
+       c = 0
+       lr = 1e-3
 
 
-def plot(samples):
-    fig = plt.figure(figsize=(4, 4))
-    gs = gridspec.GridSpec(4, 4)
-    gs.update(wspace=0.05, hspace=0.05)
+      def plot(samples):
+         fig = plt.figure(figsize=(4, 4))
+         gs = gridspec.GridSpec(4, 4)
+         gs.update(wspace=0.05, hspace=0.05)
 
-    for i, sample in enumerate(samples):
-        ax = plt.subplot(gs[i])
-        plt.axis('off')
-        ax.set_xticklabels([])
-        ax.set_yticklabels([])
-        ax.set_aspect('equal')
-        plt.imshow(sample.reshape(28, 28), cmap='Greys_r')
+       for i, sample in enumerate(samples):
+           ax = plt.subplot(gs[i])
+           plt.axis('off')
+           ax.set_xticklabels([])
+           ax.set_yticklabels([])
+           ax.set_aspect('equal')
+           plt.imshow(sample.reshape(28, 28), cmap='Greys_r')
 
-    return fig
-
-
-def xavier_init(size):
-    in_dim = size[0]
-    xavier_stddev = 1. / tf.sqrt(in_dim / 2.)
-    return tf.random_normal(shape=size, stddev=xavier_stddev)
+       return fig
 
 
-# =============================== Q(z|X) ======================================
+       def xavier_init(size):
+            in_dim = size[0]
+            xavier_stddev = 1. / tf.sqrt(in_dim / 2.)
+        return tf.random_normal(shape=size, stddev=xavier_stddev)
 
-X = tf.placeholder(tf.float32, shape=[None, X_dim])#(None,784)
+
+### =============================== Q(z|X) ======================================
+
+             X = tf.placeholder(tf.float32, shape=[None, X_dim])#(None,784)
 z = tf.placeholder(tf.float32, shape=[None, z_dim])#(None,100)
 
 Q_W1 = tf.Variable(xavier_init([X_dim, h_dim])) #(784,128)
