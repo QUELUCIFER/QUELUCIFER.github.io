@@ -70,6 +70,14 @@
 
 - [ ]  [Thu-OJ](https://dsa.cs.tsinghua.edu.cn/oj/index.shtml)
 
+- [ ]  [code-pen](https://codepen.io/)
+
+- [ ]  [code-anywhere](https://codeanywhere.com/)
+
+- [ ]  [Codetasty-powerful-ide-in-the-cloud](https://codetasty.com)
+
+- [ ]  [code-chef-ide](https://www.codechef.com/)
+
 5.在线邮箱
 
 [mohmal](https://www.mohmal.com/en)   [24mail-chacuo-多功能](http://24mail.chacuo.net/)
