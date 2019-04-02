@@ -4,6 +4,8 @@
 # Penetration Test
 1.[Penetration-Testing-资源大全](https://github.com/wtsxDev/Penetration-Testing)
 
+2.[资源大全-pentest](http://wonderkun.cc/index.html/?p=81)
+
 # Security
 1.[security-for-developers](https://github.com/FallibleInc/security-guide-for-developers) 
 
