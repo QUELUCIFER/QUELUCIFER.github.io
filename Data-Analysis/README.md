@@ -11,3 +11,8 @@
 5.[BDP-零基础数据分析平台](https://me.bdp.cn/)
 
 6.[Awesome-Python-Login-Model](https://github.com/CriseLYJ/awesome-python-login-model)
+
+7.[Python-DS-Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+8.[DS-IPython-Handbook](https://github.com/donnemartin/data-science-ipython-notebooks)
+
