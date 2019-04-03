@@ -10,3 +10,7 @@
 
 6.[ML-for-Software-Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
+7.[Python-ML-Book](https://github.com/rasbt/python-machine-learning-book)
+
+8.[AiLearning](https://github.com/apachecn/AiLearning)
+
