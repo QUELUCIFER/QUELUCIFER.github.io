@@ -60,6 +60,8 @@
 
 - [x]  [free-geo-ip](https://github.com/fiorix/freegeoip)       [free-geo-DB](https://github.com/delight-im/FreeGeoDB)
 
+- [x]  [math-pix-LaTex](https://mathpix.com/)
+
 4.在线IDE&OnlineJudge
 
 - [ ]  [在线IDE-TutorialsPoint](https://www.tutorialspoint.com/index.htm)
