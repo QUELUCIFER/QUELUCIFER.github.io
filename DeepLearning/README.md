@@ -3,3 +3,4 @@
 
 2.[DL-500问](https://github.com/scutan90/DeepLearning-500-questions)
 
+3.[增强学习-伯克利](http://rail.eecs.berkeley.edu/deeprlcourse/)
