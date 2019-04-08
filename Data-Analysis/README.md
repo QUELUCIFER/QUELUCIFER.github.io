@@ -16,3 +16,4 @@
 
 8.[DS-IPython-Handbook](https://github.com/donnemartin/data-science-ipython-notebooks)
 
+9.[data-school](https://www.dataschool.io/)
