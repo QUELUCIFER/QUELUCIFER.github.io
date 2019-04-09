@@ -3,3 +3,5 @@
 2.[dcode-fr-解密工具大全](https://www.dcode.fr/)
 
 3.[cryptography.io](https://cryptography.io/)
+
+4.[awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
