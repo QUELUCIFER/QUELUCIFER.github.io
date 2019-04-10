@@ -1,7 +1,7 @@
 ### QUELUCIFER.github.io
 个人博客
 
-[项目实践学习](https://github.com/tuvtran/project-based-learning  "项目实践学习")
+[项目实践学习](https://github.com/tuvtran/project-based-learning  "项目实践学习")   [Kaggle-Tutorial](https://github.com/apachecn/kaggle)
 
 [CS](https://github.com/ossu/computer-science "CS")
 
