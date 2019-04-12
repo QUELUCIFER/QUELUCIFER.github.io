@@ -110,7 +110,7 @@
 
 - [ ]  [firsttimeonly](https://www.firsttimersonly.com/)
 
-- [ ]  [learning-git](https://learngitbranching.js.org/)
+- [ ]  [learning-git](https://learngitbranching.js.org/)   [github](https://github.com/pcottle/learnGitBranching)
 
 9.在线笔记&思维导图
 
