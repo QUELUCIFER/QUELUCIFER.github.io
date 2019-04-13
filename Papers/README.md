@@ -1,6 +1,6 @@
 1.[Papers-we-love](https://github.com/papers-we-love/papers-we-love)  [官网](http://paperswelove.org/)
 
-2.[Papers-with-code](https://paperswithcode.com/)
+2.[Papers-with-code](https://paperswithcode.com/)    [github](https://github.com/paperswithcode)
 
 3.[the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
