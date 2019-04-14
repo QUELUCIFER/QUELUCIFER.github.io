@@ -14,3 +14,7 @@
 
 8.[AiLearning](https://github.com/apachecn/AiLearning)
 
+9.[learning-from-data-book](http://www.amlbook.com/)
+
+10.[Ace's-blog-ML-Notes](https://acecoooool.github.io/blog/)
+
