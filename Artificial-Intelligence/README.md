@@ -1,0 +1,11 @@
+1.[Practical-AI](https://github.com/GokuMohandas/practicalAI)
+
+2.[Essential Cheat Sheets for deep learning and machine learning researchers ](https://github.com/kailashahirwar/cheatsheets-ai
+
+3.[leon-ai-assitant](https://github.com/leon-ai/leon)
+
+4.[Serpent-AI-game](https://github.com/SerpentAI/SerpentAI)
+
+5.[mit-dl](https://github.com/lexfridman/mit-deep-learning)
+
+6.[60-days-rl](https://github.com/andri27-ts/60_Days_RL_Challenge)
