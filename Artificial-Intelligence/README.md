@@ -1,6 +1,6 @@
 1.[Practical-AI](https://github.com/GokuMohandas/practicalAI)
 
-2.[Essential Cheat Sheets for deep learning and machine learning researchers ](https://github.com/kailashahirwar/cheatsheets-ai
+2.[Essential Cheat Sheets for deep learning and machine learning researchers ](https://github.com/kailashahirwar/cheatsheets-ai)
 
 3.[leon-ai-assitant](https://github.com/leon-ai/leon)
 
