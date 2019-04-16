@@ -9,3 +9,5 @@
 5.[mit-dl](https://github.com/lexfridman/mit-deep-learning)
 
 6.[60-days-rl](https://github.com/andri27-ts/60_Days_RL_Challenge)
+
+7.[tf-magenta-音乐](https://github.com/tensorflow/magenta)  [magenta-demos](https://github.com/tensorflow/magenta-demos)
