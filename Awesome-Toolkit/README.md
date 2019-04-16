@@ -38,6 +38,8 @@
 - [x] [VSCodium](https://github.com/VSCodium/vscodium)
 - [x] [自动编辑视频jumpcutter](https://github.com/carykh/jumpcutter)
 - [x] [subsync-Automagically synchronize subtitles with video.](https://github.com/smacke/subsync)
+- [x] [deepfakes-faceswap](https://github.com/deepfakes/faceswap)  [awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes)
+
 
 3.在线实用工具
 
