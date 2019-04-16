@@ -13,3 +13,5 @@
 7.[TF-models](https://github.com/tensorflow/models)
 
 8.[Effictive-TF](https://github.com/vahidk/EffectiveTensorflow)
+
+9.[TF-datasets](https://github.com/tensorflow/datasets)
