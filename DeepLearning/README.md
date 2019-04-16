@@ -10,3 +10,7 @@
 5.[deep-learning-book-notes](https://github.com/hadrienj/deepLearningBook-Notes)
 
 6.[the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+
+7.[awesome-dl](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+8.[dl-tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
