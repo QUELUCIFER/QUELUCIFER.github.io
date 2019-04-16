@@ -10,3 +10,4 @@
 
 6.[deep-learning-papers-translation](https://github.com/SnailTyan/deep-learning-papers-translation)
 
+7.[dl-book-chinese](https://github.com/exacity/deeplearningbook-chinese)
