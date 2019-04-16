@@ -35,6 +35,9 @@
 - [x] [Audacity-音频软件](https://opensource.com/)
 - [x] [Snipe-IT是一个基于Laravel 5.4构建的免费开源（FOSS）项目](https://snipe-it.readme.io/)
 - [x] [Laravel-Web工匠的PHP框架](https://laravel.com/)
+- [x] [VSCodium](https://github.com/VSCodium/vscodium)
+- [x] [自动编辑视频jumpcutter](https://github.com/carykh/jumpcutter)
+- [x] [subsync-Automagically synchronize subtitles with video.](https://github.com/smacke/subsync)
 
 3.在线实用工具
 
