@@ -13,3 +13,7 @@
 7.[tf-magenta-音乐](https://github.com/tensorflow/magenta)  [magenta-demos](https://github.com/tensorflow/magenta-demos)
 
 8.[Cycle-GAN](https://github.com/junyanz/CycleGAN)
+
+9.[Morph-Net-Fast & Simple Resource-Constrained Learning of Deep Network Structure](https://github.com/google-research/morph-net)
+
+
