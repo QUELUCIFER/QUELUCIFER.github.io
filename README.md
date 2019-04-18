@@ -85,6 +85,8 @@
 - [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)
 - [awesome-ML](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-resources](https://github.com/lyfeyaj/awesome-resources/)
+- [awesome-online-ide](https://github.com/styfle/awesome-online-ide)
+- [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
 
 -------------------------------------
 
