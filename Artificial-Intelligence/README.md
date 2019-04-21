@@ -17,3 +17,6 @@
 9.[Morph-Net-Fast & Simple Resource-Constrained Learning of Deep Network Structure](https://github.com/google-research/morph-net)
 
 10.[tensorlayer-Deep Learning and Reinforcement Learning Library for Scientists](https://github.com/tensorlayer/tensorlayer)
+
+11.[AI-Learning](https://github.com/apachecn/AiLearning)
+
