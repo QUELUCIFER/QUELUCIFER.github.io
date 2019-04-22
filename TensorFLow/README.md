@@ -15,3 +15,6 @@
 8.[Effictive-TF](https://github.com/vahidk/EffectiveTensorflow)
 
 9.[TF-datasets](https://github.com/tensorflow/datasets)
+
+10.[tf-news](http://www.tensorflownews.com/)
+
