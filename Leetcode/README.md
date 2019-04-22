@@ -4,5 +4,5 @@
 
 3.[soulmachine/leetcode](https://github.com/soulmachine/leetcode)
 
-4.pezy/LeetCode](https://github.com/pezy/LeetCode)
+4.[pezy/LeetCode](https://github.com/pezy/LeetCode)
 
