@@ -71,6 +71,7 @@
 
 - [x]  [logo-makr](https://logomakr.com/)
 
+
 4.在线IDE&OnlineJudge
 
 - [ ]  [在线IDE-TutorialsPoint](https://www.tutorialspoint.com/index.htm)
@@ -129,12 +130,16 @@
 
 - [ ]  [SMS Receive Free](https://smsreceivefree.com/)   [ Sellaite](http://sms.sellaite.com/)
 
-11.IP检测
+11.IP检测相关
 - [IP138](http://www.ip138.com/) 
 
 - [what-is-my-ip-address](https://whatismyipaddress.com/)
 
 - [ip-leak-IP/DNS-detect](https://ipleak.net/)
+
+- [ip8](https://ip8.com/)
+
+- [speed-test](https://www.speedtest.net/)
 
 12.壁纸
  - [ ] [wallhaven](https://alpha.wallhaven.cc/)
