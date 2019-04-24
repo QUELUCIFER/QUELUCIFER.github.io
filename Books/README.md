@@ -5,6 +5,8 @@
 
 3.[互联网档案](https://archive.org/)
 
+4.[鸠摩搜书](https://www.jiumodiary.com/)
+
 # 文档翻译
 1.[一译-Python](https://yiyibooks.cn/)
 
