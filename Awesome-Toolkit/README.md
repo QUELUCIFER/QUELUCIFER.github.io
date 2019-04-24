@@ -22,6 +22,8 @@
 
 - [open-culture](http://www.openculture.com/)
 
+- [chrome-app-heroes](https://github.com/zhaoolee/ChromeAppHeroes)
+
 2.open-source开源资源
 
 - [x] [MS-opensource](https://opensource.microsoft.com/)
@@ -70,6 +72,8 @@
 - [x]  [math-pix-LaTex](https://mathpix.com/)
 
 - [x]  [logo-makr](https://logomakr.com/)
+
+- [x]  [vimium](https://github.com/philc/vimium)
 
 
 4.在线IDE&OnlineJudge
