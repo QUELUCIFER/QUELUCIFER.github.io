@@ -30,3 +30,5 @@
 
 16.[tf-lucid-colab](https://github.com/tensorflow/lucid)
 
+17.[cheat-sheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+
