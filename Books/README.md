@@ -20,3 +20,7 @@
 4.[free-books-for-data-science](https://github.com/chaconnewu/free-data-science-books)
 
 5.[free-security-ebooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
+
+6.[learning-from-data](http://amlbook.com/)
+
+
