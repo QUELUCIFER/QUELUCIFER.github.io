@@ -22,3 +22,9 @@
 
 12.[deep-face-lab](https://github.com/iperov/DeepFaceLab)
 
+13.[gpt-2-openai](https://github.com/openai/gpt-2)
+
+14.[transformer](https://github.com/Kyubyong/transformer)
+
+15.[pytorch-pretrained-bert](https://github.com/huggingface/pytorch-pretrained-BERT)
+
