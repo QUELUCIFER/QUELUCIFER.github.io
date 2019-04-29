@@ -75,6 +75,7 @@
 
 - [x]  [vimium](https://github.com/philc/vimium)
 
+- [x]  [inkscape-画图](https://inkscape.org/)  [github](https://github.com/gillescastel/inkscape-figures)
 
 4.在线IDE&OnlineJudge
 
