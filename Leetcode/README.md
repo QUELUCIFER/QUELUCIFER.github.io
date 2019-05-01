@@ -6,3 +6,5 @@
 
 4.[pezy/LeetCode](https://github.com/pezy/LeetCode)
 
+5.[leetcode-zh-cn](https://github.com/azl397985856/leetcode)
+
