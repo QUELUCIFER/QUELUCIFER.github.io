@@ -18,3 +18,11 @@
 
 10.[tf-news](http://www.tensorflownews.com/)
 
+11.[CNN for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
+
+12.[A TensorFlow implementation of Baidu's DeepSpeech architecture  ](https://github.com/mozilla/DeepSpeech)
+
+13.[TensorFlow (Python API) implementation of Neural Style](https://github.com/cysmith/neural-style-tf)
+
+14.[Tensorflow based training and classification scripts for text, images, etc](https://github.com/sourcedexter/tfClassifier)
+
