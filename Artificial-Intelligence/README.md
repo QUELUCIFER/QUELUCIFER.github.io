@@ -33,3 +33,10 @@
 17.[cheat-sheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
 
 18.[Learning-To-Paint](https://github.com/hzwer/LearningToPaint)
+
+19.[OpenAI Baselines：强化学习算法的高质量实现](https://github.com/openai/baselines)
+
+20.[A toolkit for developing and comparing reinforcement learning algorithms](https://github.com/openai/gym)
+
+
+
