@@ -14,3 +14,8 @@
 7.[awesome-dl](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 8.[dl-tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
+
+9.[dl-sota](https://github.com/cmsflash/deep-learning-sota)
+
+10.[NLP-Progress](https://github.com/sebastianruder/NLP-progress)
+
