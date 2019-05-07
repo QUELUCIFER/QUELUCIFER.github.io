@@ -1,4 +1,4 @@
-1.[Julia-Gitub](https://github.com/JuliaLang/julia)
+1.[Julia-Github](https://github.com/JuliaLang/julia)
 
 2.[华语社区](https://cn.julialang.org/)
 
@@ -8,6 +8,6 @@
 
 5.[Julia-course-notes](https://github.com/juanklopper/JuliaCourseNotebooks)
 
-6.[Mocha-Deep Learning framework for Julia ](https://github.com/pluskid/Mocha.jl)
+6. [awesome-julia] （https://github.com/greister/Awesome-Julia)
 
 
