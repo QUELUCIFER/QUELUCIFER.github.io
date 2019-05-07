@@ -8,6 +8,6 @@
 
 5.[Julia-course-notes](https://github.com/juanklopper/JuliaCourseNotebooks)
 
-6. [awesome-julia] （https://github.com/greister/Awesome-Julia)
+6.[awesome-julia](https://github.com/greister/Awesome-Julia)
 
 
