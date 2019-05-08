@@ -38,5 +38,10 @@
 
 20.[A toolkit for developing and comparing reinforcement learning algorithms](https://github.com/openai/gym)
 
+21.[A Deep Learning based project for colorizing and restoring old images](https://github.com/jantic/DeOldify)
+
+22.[AI to generate YouTube comments based on video title](https://github.com/HackerPoet/YouTubeCommenter)
+
+
 
 
