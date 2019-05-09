@@ -46,6 +46,7 @@
 
 24.[dl-sandbox](https://github.com/DeepLearningSandbox/DeepLearningSandbox) [reference](https://cloud.tencent.com/developer/article/1080332)
 
+25.[nlp-progress-track the progress in Natural Language Processing (NLP),](https://github.com/sebastianruder/NLP-progress)
 
 
 
