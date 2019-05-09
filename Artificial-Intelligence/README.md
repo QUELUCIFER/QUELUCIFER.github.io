@@ -42,6 +42,6 @@
 
 22.[AI to generate YouTube comments based on video title](https://github.com/HackerPoet/YouTubeCommenter)
 
-
+23.[translating music across musical instruments and styles.](https://github.com/facebookresearch/music-translation)
 
 
