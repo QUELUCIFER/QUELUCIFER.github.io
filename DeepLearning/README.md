@@ -19,3 +19,7 @@
 
 10.[NLP-Progress](https://github.com/sebastianruder/NLP-progress)
 
+11.[动手学dl-book](https://zh.gluon.ai/index.html)
+
+
+
