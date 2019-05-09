@@ -6,3 +6,8 @@
 
 - [ ] 4.[Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 
+- [ ] 5.[Learning Hierarchical Semantic Image Manipulation through Structured Representations](https://arxiv.org/abs/1808.07535)
+
+
+
+
