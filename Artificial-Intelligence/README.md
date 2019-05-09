@@ -44,4 +44,11 @@
 
 23.[translating music across musical instruments and styles.](https://github.com/facebookresearch/music-translation)
 
+24.[dl-sandbox](https://github.com/DeepLearningSandbox/DeepLearningSandbox) [reference](https://cloud.tencent.com/developer/article/1080332)
+
+
+
+
+
+
 
