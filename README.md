@@ -154,7 +154,7 @@
 
 [多巴胺](https://github.com/google/dopamine "多巴胺")
 
-[脸部识别](https://github.com/ageitgey/face_recognition "脸部识别")     [换脸神器](https://github.com/deepfakes/faceswap "换脸神器")
+[脸部识别](https://github.com/ageitgey/face_recognition "脸部识别")     [换脸神器](https://github.com/deepfakes/faceswap "换脸神器")   [facenet](https://github.com/davidsandberg/facenet)
 
 [TF-Cookbook](https://github.com/nfmcclure/tensorflow_cookbook "TF-Cookbook")
 
