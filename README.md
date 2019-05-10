@@ -168,7 +168,7 @@
 
 [Homemade-ML](https://github.com/trekhleb/homemade-machine-learning "Homemade-ML")
 
-[Darknet-CNN](https://github.com/pjreddie/darknet "Darknet-CNN")
+[Darknet-CNN](https://github.com/pjreddie/darknet "Darknet-CNN")  [YAD2K](https://github.com/allanzelener/YAD2K)
 
 [opencv](https://github.com/opencv/opencv "opencv")
 
