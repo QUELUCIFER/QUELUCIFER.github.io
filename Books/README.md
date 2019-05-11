@@ -7,6 +7,8 @@
 
 4.[鸠摩搜书](https://www.jiumodiary.com/)
 
+5.[书农-江南全集](http://www.qxswk.com/wx/9747/354232.html)
+
 # 文档翻译
 1.[一译-Python](https://yiyibooks.cn/)
 
