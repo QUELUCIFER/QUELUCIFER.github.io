@@ -150,6 +150,12 @@
  - [ ] [wallhaven](https://alpha.wallhaven.cc/)
 
 13.盲打练习
+ -  [ ] [typing.io-pl](https://typing.io/)
+ 
+ - [ ] [shortcutfoo-editor](https://www.shortcutfoo.com/)
+ 
+ - [ ] [typingsoft-大全](https://typingsoft.com/)
+  
  - [ ]  [Touch-Typing-Study](https://www.typingstudy.com/)
  
  - [ ]  [Learn-To-Type](https://www.typing.com/)
