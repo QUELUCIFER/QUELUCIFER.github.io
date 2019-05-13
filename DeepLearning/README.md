@@ -21,5 +21,5 @@
 
 11.[动手学dl-book](https://zh.gluon.ai/index.html)
 
-
+12.[dl-book-Cn](https://github.com/exacity/deeplearningbook-chinese)
 
