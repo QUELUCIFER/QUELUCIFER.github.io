@@ -23,3 +23,8 @@
 
 12.[dl-book-Cn](https://github.com/exacity/deeplearningbook-chinese)
 
+13.[dl-objection-detection](https://github.com/hoya012/deep_learning_object_detection)
+
+
+
+
