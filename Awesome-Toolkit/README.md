@@ -113,7 +113,15 @@
 
 - [ ]  [CCC-edu](https://logon.ccc.edu)
 
-7.在线虚拟钢琴    [real-royal](https://real-royal.com/zh/)    [Virtual-Piano](https://virtualpiano.net/)
+7.在线虚拟钢琴    
+
+- [real-royal](https://real-royal.com/zh/)   
+ 
+- [Virtual-Piano](https://virtualpiano.net/)
+
+- [vp](https://recursivearts.com/)
+
+- [vp2](https://www.onlinepianist.com/)
 
 8.在线学习平台
 
