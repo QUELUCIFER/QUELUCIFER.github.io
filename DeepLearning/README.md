@@ -25,6 +25,6 @@
 
 13.[dl-objection-detection](https://github.com/hoya012/deep_learning_object_detection)
 
-
+14.[text-blob](https://github.com/sloria/TextBlob)
 
 
