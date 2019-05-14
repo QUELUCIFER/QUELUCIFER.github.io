@@ -48,8 +48,12 @@
 
 25.[nlp-progress-track the progress in Natural Language Processing (NLP),](https://github.com/sebastianruder/NLP-progress)
 
+26.[feature-tools](https://github.com/Featuretools/featuretools)
 
+27.[text-blob](https://github.com/sloria/TextBlob)
 
+28.[bert](https://github.com/google-research/bert)
 
+29.[pretrained-bert](https://github.com/huggingface/pytorch-pretrained-BERT)
 
 
