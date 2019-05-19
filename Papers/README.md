@@ -11,3 +11,7 @@
 6.[deep-learning-papers-translation](https://github.com/SnailTyan/deep-learning-papers-translation)
 
 7.[dl-book-chinese](https://github.com/exacity/deeplearningbook-chinese)
+
+8.[awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+
+
