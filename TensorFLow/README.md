@@ -26,3 +26,11 @@
 
 14.[Tensorflow based training and classification scripts for text, images, etc](https://github.com/sourcedexter/tfClassifier)
 
+15.[synonyms可以用于自然语言理解的很多任务：文本对齐，推荐算法，相似度计算，语义偏移，关键字提取，概念提取，自动摘要，搜索引擎等](https://github.com/huyingxi/Synonyms)
+
+
+
+
+
+
+
