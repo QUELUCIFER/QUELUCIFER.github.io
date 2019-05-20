@@ -77,6 +77,9 @@
 
 - [x]  [inkscape-画图](https://inkscape.org/)  [github](https://github.com/gillescastel/inkscape-figures)
 
+- [x]  [Fusuma很容易使用Markdown制作幻灯片](https://github.com/hiroppy/fusuma)
+
+
 4.在线IDE&OnlineJudge
 
 - [ ]  [在线IDE-TutorialsPoint](https://www.tutorialspoint.com/index.htm)
