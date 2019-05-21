@@ -27,4 +27,11 @@
 
 14.[text-blob](https://github.com/sloria/TextBlob)
 
+15.[A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.](https://github.com/microsoft/SPTAG)
+
+16.[deep Learning and Reinforcement Learning Library for Scientists](https://github.com/tensorlayer/tensorlayer)
+
+
+
+
 
