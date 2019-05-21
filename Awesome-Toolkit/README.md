@@ -42,6 +42,7 @@
 - [x] [subsync-Automagically synchronize subtitles with video.](https://github.com/smacke/subsync)
 - [x] [deepfakes-faceswap](https://github.com/deepfakes/faceswap)  [awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes)
 - [x] [cool-symbol](https://coolsymbol.com/)
+- [x] [copy_translate](https://github.com/CopyTranslator/CopyTranslator)
 
 3.在线实用工具
 
