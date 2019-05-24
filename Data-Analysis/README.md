@@ -4,7 +4,7 @@
 
 2.[《python数据分析与挖掘实战》的代码笔记](https://github.com/apachecn/python_data_analysis_and_mining_action)
 
-3.[Kaggle](https://www.kaggle.com/)
+3.[List of Data Science Cheatsheets to rule the world](https://github.com/FavioVazquez/ds-cheatsheets)
 
 4.[Data-BathHacked](https://data.bathhacked.org/)
 
