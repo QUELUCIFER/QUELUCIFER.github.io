@@ -6,5 +6,14 @@
 
 4.[PyQT之标准输入对话框(QInputDialog)控件的常用方法和使用](https://blog.csdn.net/lb0737/article/details/84321236)
 
+5.[pyqt5教程（七）对话框](https://www.jianshu.com/p/aaa644b5196d)
+
+6.[PyQt5系列教程（28）： QLineEdit 2](https://zhuanlan.zhihu.com/p/34075334)
+
+7.[PyQt5基本控件详解之QLineEdit（四）](https://blog.csdn.net/jia666666/article/details/81510502)
+
+
+
+
 
 
