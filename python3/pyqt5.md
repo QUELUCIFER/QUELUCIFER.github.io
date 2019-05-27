@@ -12,7 +12,7 @@
 
 7.[PyQt5基本控件详解之QLineEdit（四）](https://blog.csdn.net/jia666666/article/details/81510502)
 
-
+8.[【PyQt5-Qt Designer】文本框读写操作](https://www.cnblogs.com/XJT2018/p/10049562.html)
 
 
 
