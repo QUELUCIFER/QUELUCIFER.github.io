@@ -22,4 +22,7 @@
 
 ## 12.[ml-resources](https://github.com/allmachinelearning/MachineLearning)
 
+13.[ml-from-scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
+
 
