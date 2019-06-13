@@ -17,3 +17,10 @@
 
 9.[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
+10.[Switch from Medium to your own blog in a few minutes](https://github.com/mathieudutour/medium-to-own-blog)
+
+11.[A Python library for building robust production-ready data and analytics pipelines](https://github.com/quantumblacklabs/kedro)
+
+
+
+
