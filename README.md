@@ -1,5 +1,6 @@
 ### QUELUCIFER.github.io
-个人博客
+个人博客  Sync : 上传完成. GIST ID : a0596ce3851cfe30fa4c7953a53054fc .请在其他计算机上复制并使用此ID以下载设置.
+
 [RMDL](https://github.com/kk7nc/RMDL)
 
 [项目实践学习](https://github.com/tuvtran/project-based-learning  "项目实践学习")   [Kaggle-Tutorial](https://github.com/apachecn/kaggle) [Kaggle](https://kaggle.com)
