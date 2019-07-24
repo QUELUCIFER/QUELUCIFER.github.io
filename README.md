@@ -1,5 +1,5 @@
 ### QUELUCIFER.github.io
-个人博客  Sync : 上传完成. GIST ID : a0596ce3851cfe30fa4c7953a53054fc .请在其他计算机上复制并使用此ID以下载设置.
+个人博客 
 
 [RMDL](https://github.com/kk7nc/RMDL)
 
@@ -26,6 +26,22 @@
 [ml-hw](https://github.com/AceCoooool/MLF-MLT)
 
 -------------------------------------
+
+# Challenge网站
+
+1.[CodeChef](https://www.codechef.com/)
+
+2.[TopCoder](https://www.topcoder.com/)
+
+3.[Lumosity](https://www.lumosity.com/en/)
+
+4.[project-Euler](https://projecteuler.net/)
+
+5.[Career-Cup](https://www.careercup.com/)
+
+6.[the-daily-WTF](https://thedailywtf.com)
+
+7.[python-challenge](http://www.pythonchallenge.com/)
 
 # 华语文档：
 [Python资源大全中文版]( https://github.com/jobbole/awesome-python-cn "Python资源大全中文版")       [伯乐在线](https://github.com/jobbole  "伯乐在线")
